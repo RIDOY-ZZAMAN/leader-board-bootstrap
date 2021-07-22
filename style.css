@@ -1,0 +1,17 @@
+body{
+    background-color:  #E5E5E5;
+}
+.filled{
+    color: #ffc014;;
+}
+.course-time{
+    background-color: #FFE4E8;
+    border-radius: 15px;
+    padding: 4px 4px;
+}
+.card-shadow{
+    box-shadow: 0px 5.34229px 13.3557px rgb(0 0 0 / 5%);
+}
+.mbottom{
+    margin-bottom: 25px;
+}
